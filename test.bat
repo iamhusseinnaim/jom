@@ -1,0 +1,1 @@
+py -m twine upload  --verbose --repository-url https://test.pypi.org/legacy/ dist/*
