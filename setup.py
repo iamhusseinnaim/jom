@@ -21,5 +21,5 @@ setuptools.setup(
     py_modules=["jom"],             # Name of the python package
     package_dir={'':'JOM/src'},     # Directory of the source code of the package
     install_requires=[]     ,               # Install other dependencies if any
-    url="https://iamhusseinnaim.github.io",
+    url="https://github.com/iamhusseinnaim/jom.git",
 )
