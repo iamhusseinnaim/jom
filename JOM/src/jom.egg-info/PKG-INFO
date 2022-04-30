@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: jom
-Version: 0.0.4
+Version: 0.0.5
 Summary: simple json data manager targeting model.JsonField in (djano framework)
-Home-page: https://iamhusseinnaim.github.io
+Home-page: https://github.com/iamhusseinnaim/jom.git
 Author: Hussein Naim
 Author-email: phusseinnaim@gmail.com
 License: UNKNOWN
