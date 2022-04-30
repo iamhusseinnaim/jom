@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     author_email="phusseinnaim@gmail.com",
     name="jom",                     # This is the name of the package
-    version="0.0.5",                        # The initial release version
+    version="0.0.6",                        # The initial release version
     author="Hussein Naim",                     # Full name of the author
     description="simple json data manager targeting model.JsonField in (djano framework)",
     long_description=long_description,      # Long description read from the the readme file
